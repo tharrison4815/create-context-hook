@@ -7,6 +7,9 @@
     "test": "jest",
     "build": "tsc"
   },
+  "repository": {
+    "url": "https://github.com/tharrison4815/create-context-hook"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
